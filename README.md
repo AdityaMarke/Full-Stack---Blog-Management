@@ -85,14 +85,6 @@ A Full Stack Blog System built using **PHP**, **MySQL**, **HTML**, **CSS**, and 
 
 ---
 
-## 📬 Contact
-
-**Developer:** Siddhesh More  
-**Email:** siddheshmore0024@gmail.com  
-**Portfolio:** [https://siddheshmore24.github.io/Portfolio/](https://siddheshmore24.github.io/Portfolio/)
-
----
-
 ## 📃 License
 
 This project is open source and available under the **MIT License**.
